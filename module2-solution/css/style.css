@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+body{
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif, Times New Roman;
+}
+
+.content{
+	width: 100%;
+	float: left;
+
+}
+
+.content header h2{
+	text-align: center;
+
+}
+
+.class1{
+	width: 300px;
+	background-color: purple;
+}
+
+h3{
+	text-align: right;
+}
+
+.class2{
+	width: 300px;
+	background-color: lime;
+}
+
+.class3{
+	width: 300px;
+	background-color: gray;
+}
